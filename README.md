@@ -10,6 +10,7 @@ add as many meetings as you want
 and python3
 
 # Configuration
+make sure "Start time" is in a 24 hour format and "End time" is in minutes 
 example:
 | Start Time  | Meeting ID  | Password    | End Time in minutes |
 | ----------- | ----------- | ----------- | ------------------- |
