@@ -1,5 +1,6 @@
 # Zoom-er
 Join zoom calls easily 
+add as many meetings as you want
 
 # Requirements 
 ```git clone https://github.com/stugotszach/Zoom-er```
