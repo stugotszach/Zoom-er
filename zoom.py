@@ -12,6 +12,8 @@ def join(meetingid, passw):
 	
 read = pd.read_csv('time.csv')
 
+print('Make sure the CSV config "Start time" is in a 24 hour format and the "End time" is how long the zoom lasts in minutes')
+
 while True:
     # checking of the current time exists in our csv file
     now = datetime.now().strftime("%H:%M")
